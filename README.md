@@ -9,6 +9,9 @@ RECOMMENDED OPTIMIZATIONS
   * Pedestrians: 100
 - FPS: If your CPU has weak single-core performance, cap the game at 30 FPS inside the game options. Then, use the "Lossless Scaling" application with "Frame Generation (Fixed 2x)" to upscale it to 60 FPS. Turn off Performance Mode in the app for better results.
 - Add "-nolog" parameter to launch options for casual gaming. This prevents the game creating logs and potentially ease the game engine.
+- Set the game to run as administrator.
+- Exclude the game folder for antivirus scans on Windows Defender.
+- Create "-nolog", "-editor" and without non-parameter shortcut to the game. You will gain time.
 
 TROUBLESHOOTING AND SOLUTIONS
 -----------------------------
@@ -68,6 +71,9 @@ Before diving into specific fixes, always ensure you have done the following:
   * Pedestrians: 100
 - FPS: İşlemcinizin tek çekirdek performansı zayıfsa, oyun içi seçeneklerden oyunu 30 FPS'ye sabitleyin. Ardından, bunu 60 FPS'ye yükseltmek için "Lossless Scaling" uygulamasının "Frame Generation (Fixed 2x)" ayarıyla Upscale edin. Daha iyi sonuçlar için Performance Mode'u uygulama içinden kapatın.
 - Sadece oyun oynamak için başlatma seçeneklerine "-nolog" parametresini ekleyin. Bu, oyunun günlük (log) dosyaları oluşturmasını engeller ve oyun motorunu potansiyel olarak rahatlatır.
+- Oyunu her zaman yönetici olarak çalıştıracak şekilde ayarlayın.
+- Oyun klasörünü Windows Defender üzerinden antivirüs taramaları yapmaması için dışlayın.
+- "-nolog", "-editor" ve parametresiz kısayollar oluşturun. Zaman kazanırsınız.
 
 SORUN GİDERME VE ÇÖZÜMLER
 -------------------------
