@@ -82,12 +82,5 @@ Spesifik çözümlere dalmadan önce, her zaman aşağıdakileri yaptığınızd
 
 - Alternatif Çözüm: Sorun devam ederse, dosya adlarındaki ve içeriklerindeki Almanca karakterler oyun motorunu bozuyor demektir. Bunu haritayı Editör modunda kaydederek, Almanca'yı hedefleyen "Locale Emulator" çalıştırarak veya Windows Sistem Yerel Ayarınızı Almanca olarak değiştirerek çözebilirsiniz. Sistem yerel ayarınızı değiştirmeden önce diğerlerini yapmanızı öneririm, bu ayarı değiştirmek en son çareniz olsun.
 
-
-------------
-
-**If you have anything to add or want something to change, feel free to contribute.**
-
-------------
-
-###### ANYTHING YOU DO IS IN YOUR RESPONSIBILITY.
-###### YAPTIĞINIZ HER ŞEY SIZIN SORUMLULUĞUNUZDADIR
+	**Anything you do is in your responsibility.**
+	**Yaptığınız her şey sizin sorumluluğunuzdadır.**
