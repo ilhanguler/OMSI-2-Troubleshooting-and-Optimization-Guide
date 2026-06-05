@@ -41,7 +41,16 @@ Before diving into specific fixes, always ensure you have done the following:
 - Alternative Solution: If the issue persists, German characters in the filenames and contents are breaking the engine. You can fix this by saving the map in Editor mode, running "Locale Emulator" targeting German, or changing your Windows System Locale to German. I recommend others before changing your system locale settings, it must be the last thing to do.
 
 
+
+
 ------------
+
+
+
+------------
+
+
+
 [TR] OMSI 2 - OPTİMİZASYON VE SORUN GİDERME KILAVUZU
 ====================================================
 
