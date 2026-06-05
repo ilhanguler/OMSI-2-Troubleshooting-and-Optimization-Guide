@@ -51,6 +51,12 @@ Before diving into specific fixes, always ensure you have done the following:
 
 
 
+------------
+
+
+
+
+
 [TR] OMSI 2 - OPTİMİZASYON VE SORUN GİDERME KILAVUZU
 ====================================================
 
