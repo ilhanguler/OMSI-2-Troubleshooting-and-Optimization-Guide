@@ -89,5 +89,5 @@ Spesifik çözümlere dalmadan önce, her zaman aşağıdakileri yaptığınızd
 
 ------------
 
-###### ANYTHING YOU DO IS IN YOUR RESPONSIBILITY.
+###### ANYTHING YOU DO IS AT YOUR RESPONSIBILITY.
 ###### YAPTIĞINIZ HER ŞEY SIZIN SORUMLULUĞUNUZDADIR
